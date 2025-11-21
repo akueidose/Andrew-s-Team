@@ -1,0 +1,5 @@
+{
+  "name": "VLC Web MVP",
+  "description": "A friction-less, utility-first web video player focused on universal playback and zero configuration. Features AI-powered scene analysis.",
+  "requestFramePermissions": []
+}
